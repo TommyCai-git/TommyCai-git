@@ -1,0 +1,5 @@
+Developed algorithms for telecommunication service vendors to predict customer churn based on labeled data via Python programming
+Preprocessed data set by data cleaning, categorical feature transformation by One-hot Encoding, standardization and normalization, etc
+Trained supervised machine learning model including Logistic Regression, K-Nearest Neighbor, and Random Forest from sklearn in Python, and applied regularization with optimal parameters to avoid overfitting problem
+Evaluated model performance of classification via k-fold cross-validation and Confusion Matrix metric from sklearn and concluded that Random Forest has the accuracy of 0.8596 and precision of 0.8038 which is the highest among all three models
+Analyzed the feature importance to identify top factors that a customer will churn in the Random Forest model and concluded that age and estimated salary with the highest feature importance 0.2369 and 0.1489, respectively, are the most influential features and the company can make better decisions based on these information.
